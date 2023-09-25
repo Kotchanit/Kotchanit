@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Backend stuff.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotchanit)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotchanit)](https://github.com/Kotchanit/github-readme-stats)
