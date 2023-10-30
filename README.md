@@ -22,13 +22,13 @@
 <p align="center">
   🌟 Mastering Backend development, crafting robust and efficient systems.<br>
   🌟 Exploring the intricate world of DevOps to enhance software deployment and management.<br>
-  🌟 Contributing to innovative solutions at <a href="https://www.example-link.com">Saim Digital Lending</a>.
+  🌟 Contributing to innovative solutions at <a href="https://www.siamdl.co.th/en">Saim Digital Lending</a>.
 </p>
 
 <h2 align="center">Let's Connect 📬</h2>
 <p align="center">
   Feel free to reach out and connect with me. I'm open to discussions, collaborations, and sharing knowledge:<br>
-  <a href="mailto:your.email@example.com">📧 your.email@example.com</a>
+  <a href="mailto:kotchanit.e@gmail.com">📧 kotchanit.e@gmail.com</a>
 </p>
 
 <p align="center">May your code be clean, efficient, and always deploy smoothly! 🚀</p>
