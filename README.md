@@ -20,8 +20,9 @@
 
 <h2 align="center">Current Focus 🔍</h2>
 <p align="center">
-  🌟 Mastering Backend development, crafting robust and efficient systems.<br>
-  🌟 Exploring the intricate world of DevOps to enhance software deployment and management.<br>
+  🌟 Crafting engaging user experiences through Frontend development.<br>
+  🌟 Exploring Backend development to craft robust systems (as a beginner).<br>
+  🌟 Diving into the world of DevOps (as a beginner) to enhance software deployment and management.<br>
   🌟 Contributing to innovative solutions at <a href="https://www.siamdl.co.th/en">Saim Digital Lending</a>.
 </p>
 
@@ -31,4 +32,4 @@
   <a href="mailto:kotchanit.e@gmail.com">📧 kotchanit.e@gmail.com</a>
 </p>
 
-<p align="center">May your code be clean, efficient, and always deploy smoothly! 🚀</p>
+<p align="center">May your coding journey be filled with exciting discoveries and successful deployments! 🚀</p>
