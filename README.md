@@ -14,7 +14,7 @@
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-  I'm a dedicated technologist based in Bangkok, Thailand. With a strong emphasis on Backend development and DevOps, I'm committed to exploring the latest technologies and pushing the boundaries of digital innovation. My expertise also extends to the world of Frontend development.
+    I'm a dedicated technologist based in Bangkok, Thailand. With a focus on both Backend and Frontend development, I'm on a journey to build innovative and user-friendly digital solutions.
 </p>
 
 <h2 align="center">Current Focus 🔍</h2>
