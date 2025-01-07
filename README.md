@@ -17,7 +17,6 @@
 <p align="center">
   🌟 Crafting engaging user experiences through Frontend development.<br>
   🌟 Exploring Backend development to craft robust systems (as a beginner).<br>
-  🌟 Diving into the world of DevOps (as a beginner) to enhance software deployment and management.<br>
   🌟 Contributing to innovative solutions at <a href="https://www.siamdl.co.th/en">Saim Digital Lending</a>.
 </p>
 
