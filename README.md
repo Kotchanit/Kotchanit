@@ -84,7 +84,7 @@ I enjoy building <b>production-ready systems</b> that combine modern UI, scalabl
 <p align="center">
 🏹 Archery &nbsp; | &nbsp; 🌊 Wakeboarding & Swimming &nbsp; | &nbsp; 🎳 Bowling <br/>
 🏋️‍♂️ Fitness &nbsp; | &nbsp; 🎮 Gaming &nbsp; | &nbsp; 🎵 Music &nbsp; | &nbsp; 📱 TikTok <br/>
-🏂 Snowboarding  
+🏂 Snowboarding  | &nbsp; 😻 Cat Person
 </p>
 
 ---
