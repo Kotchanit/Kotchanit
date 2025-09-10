@@ -18,7 +18,7 @@
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-I'm a Software Developer with 6+ years of experience building <b>web platforms, mobile apps, and APIs</b>.<br/>
+I'm a Software Developer with 7+ years of experience building <b>web platforms, mobile apps, and APIs</b>.<br/>
 Specialized in <b>fintech development</b>, including <b>NDID, ThaiD, DOPA, DAP, BOT, and AMLO integrations</b>.<br/>
 I enjoy building <b>production-ready systems</b> that combine modern UI, scalable backend, and regulatory compliance.
 </p>
