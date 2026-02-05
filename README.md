@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kotchanit 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kotchanit-emsawat-7926b9215/">
+  <a href="https://www.linkedin.com/in/kotchanit-e-7926b9215/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/Kotchanit">
