@@ -11,49 +11,55 @@
 
 ---
 
-<p align="center">💻 Software Developer | Web • Mobile • API • AI • Fintech</p>
-<p align="center">📍 Based in Bangkok, Thailand</p>
+<p align="center">💻 Senior Software Developer | Web • Mobile • API • AI • Fintech</p>
+<p align="center">📍 Bangkok, Thailand</p>
 
 ---
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-I'm a Software Developer with <b>7+ years of experience</b> building <b>web platforms, mobile apps, and APIs</b>.<br/>
-Specialized in <b>fintech development</b>, including <b>NDID, ThaiD, DOPA, DAP, BOT, and AMLO integrations</b>.<br/>
-I enjoy building <b>production-ready systems</b> that combine modern UI, scalable backend, and regulatory compliance.
+Senior developer with <b>7+ years</b> shipping lending products from the app to the database.<br/>
+I built <b>Internal Nexus</b>, the ops console for customer support, collections, tech, and accounting.<br/>
+Same stretch of work covers <b>eKYC</b> (NDID, ThaiD, DOPA), <b>document AI</b>, and a loyalty platform for <b>CP</b>.
 </p>
 
 ---
 
 <h2 align="center">Tech Stack 🛠</h2>
+
+<p align="center"><b>Web and mobile</b></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /><br/>
+</p>
+
+<p align="center"><b>API and data</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-399AF3?style=for-the-badge&logo=sequelize&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-399AF3?style=for-the-badge&logo=sequelize&logoColor=white" />
 </p>
+
+<p align="center"><b>AI and delivery</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">Also shipped with PHP, Python, Ember.js, and SASS.</p>
 
 ---
 
@@ -61,34 +67,49 @@ I enjoy building <b>production-ready systems</b> that combine modern UI, scalabl
 
 <p align="center">
   <b>🏦 Fintech Platform (Current)</b><br/>
-  <b>🚀 SiamDL Mobile App</b> - Production app on App Store & Play Store serving thousands<br/>
-  <b>🤖 AI Document Analysis</b> - Reduced compliance review time from days to hours<br/>
-  <b>📊 Operations Dashboard</b> - Enterprise platform for loan processing & compliance<br/>
-  <b>🌐 Corporate Website</b> - Next.js platform with Thai/English localization
+  <b>📊 Internal Nexus</b> - Ops console for support, collections, tech, and accounting<br/>
+  <b>📞 Log Contact</b> - Phone, LINE, and follow-ups<br/>
+  <b>🔎 Contact Analysis</b> - Find a customer by phone, ID, or application<br/>
+  <b>🗺️ Customer Journey</b> - Application path on one screen<br/>
+  <b>📁 Application Ops</b> - NDID, eKYC, and application desk<br/>
+  <b>📄 Document Check</b> - Queue before credit analysis<br/>
+  <b>🔒 Access Locks</b> - OTP and DOPA unlocks<br/>
+  <b>📥 Collections</b> - Activity, PTP, portfolio, and QR repayment<br/>
+  <b>🔔 Notification Templates</b> - LINE, push, and send tracker<br/>
+  <b>🎫 Tech Queue</b> - Tickets from contact escalations<br/>
+  <b>🧾 CA Review</b> - Underwriting desk and NCB<br/>
+  <b>📈 Reports</b> - Collections, NCB, finance, and accounting<br/>
+  <b>👥 Access</b> - Roles for every desk<br/>
+  <b>🚀 SiamDL App</b> - OCR, DOPA, ThaiD, NDID on the stores<br/>
+  <b>⚙️ Customer API</b> - Apply, documents, EV bikes<br/>
+  <b>🤖 Credit AI</b> - Statement read, decision agent, human review<br/>
+  <b>🌐 Website</b> - Next.js, Thai and English
 </p>
 
 <p align="center">
   <b>🛡️ Insurance Platform (Previous)</b><br/>
-  <b>📋 CMS API 2.0</b> - GraphQL API with Apollo Server for content management<br/>
-  <b>🏥 Insurance API</b> - Multi-vertical insurance processing system<br/>
-  <b>💼 MASII Broker</b> - Next.js insurance broker platform with i18n<br/>
-  <b>🌐 Ember.js Frontend</b> - Insurance comparison platform with SASS<br/>
-  <b>📱 Angular Applications</b> - Multiple Angular dashboards & FaceTec integration
+  <b>📋 CMS API 2.0</b> - GraphQL API with Apollo Server<br/>
+  <b>🏥 Insurance API</b> - Drone, PA, travel, cyber, and health<br/>
+  <b>💼 MASII Broker</b> - Next.js broker site with i18n<br/>
+  <b>🌐 Ember.js Frontend</b> - Insurance comparison with SASS<br/>
+  <b>📱 Angular Applications</b> - Dashboards, FaceTec, and a premium-financing POS
 </p>
 
 <p align="center">
   <b>🎯 Customer Points Management (Previous)</b><br/>
-  <b>🏪 CPM POS System</b> - Multi-tenant SaaS POS with Vue.js & Laravel<br/>
-  <b>🔧 CPM Admin Platform</b> - Enterprise admin panel with RBAC & multi-language<br/>
-  <b>🚀 CPM API Platform</b> - High-scale loyalty program API with Redis & queues<br/>
-  <b>📊 Multi-tenant Architecture</b> - Supporting millions of point transactions
+  <b>CP</b> - Loyalty platform for CP<br/>
+  <b>🏪 CPM POS</b> - Multi-tenant POS on Vue.js and Laravel<br/>
+  <b>🔧 CPM Admin</b> - Admin with RBAC and multiple languages<br/>
+  <b>🚀 CPM API</b> - Loyalty API on Redis and queues
 </p>
 
 <p align="center">
   <b>🚀 Additional Projects</b><br/>
-  <b>📱 Mobile Applications</b> - React Native apps (Katanyu, Lalil) & iOS development<br/>
-  <b>⚛️ Web Platforms</b> - React, Angular applications and admin systems<br/>
-  <b>☁️ Cloud Services</b> - AWS Lambda functions and serverless architecture<br/>
+  <b>📱 Mobile</b> - React Native (Katanyu, Lalil) and iOS<br/>
+  <b>⚛️ Web</b> - React and Angular admin systems<br/>
+  <b>☁️ Cloud</b> - AWS Lambda and serverless<br/>
+  <b>🐣 Appsynth</b> - Internship, Bangkok, 2018<br/>
+  <b>✨ Lendavium</b> - Next.js marketing site, EN / DE / IT
 </p>
 
 ---
@@ -105,7 +126,8 @@ I enjoy building <b>production-ready systems</b> that combine modern UI, scalabl
 <h2 align="center">Lifestyle & Interests 🎯</h2>
 
 <p align="center">
-🏹 Archery &nbsp; | &nbsp; 🌊 Wakeboarding & Swimming &nbsp; | &nbsp; 🎳 Bowling <br/>
+🎾 Tennis &nbsp; | &nbsp; 🏸 Badminton &nbsp; | &nbsp; 🏹 Archery <br/>
+🌊 Wakeboarding & Swimming &nbsp; | &nbsp; 🎳 Bowling <br/>
 🏋️‍♂️ Fitness &nbsp; | &nbsp; 🎮 Gaming &nbsp; | &nbsp; 🎵 Music &nbsp; | &nbsp; 📱 TikTok <br/>
 🏂 Snowboarding &nbsp; | &nbsp; 😻 Cat Person
 </p>
